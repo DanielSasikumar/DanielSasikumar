@@ -16,7 +16,7 @@ I'm a passionate problem solver, and open-source enthusiast. I love building thi
 - Artificial Intelligence and Data Science Analysis with Meachine learning.
 
  📝 Featured Projects:
-- Project Java Script: Defining everythign with java programming language by writing code.
+- Explore a collection of projects showcasing my skills in Java and Python automation. From building robust applications in Java to automating web testing with Selenium WebDriver in Python, these projects demonstrate my ability to implement efficient solutions for real-world problems.
 
 Feel free to browse my repositories, star your favorites, and contribute to any open-source projects that interest you!
 
@@ -24,6 +24,7 @@ Feel free to browse my repositories, star your favorites, and contribute to any 
 - [Email]( sdanielraj15@gmail.com)
 
 Happy coding! 🚀
+Dont forgot to hit the subscribe button
 
 <!---
 DanielSasikumar/DanielSasikumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
